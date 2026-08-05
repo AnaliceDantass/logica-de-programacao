@@ -1,3 +1,4 @@
+## Loops
 Essas estruturas, incluindo listas, tuplas, dicionários e conjuntos, têm características únicas e são usadas para propósitos diferentes. Aqui está uma breve visão geral de como os loops são comumente usados com essas estruturas de dados:
 
 - Strings: em Python, strings são iteráveis. Cada iteração através de uma string acessar um caractere por vez.
