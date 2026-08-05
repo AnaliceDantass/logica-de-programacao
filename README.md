@@ -17,3 +17,7 @@ Representa uma das formas mais comuns de estrutura de repetição, permitindo it
 **[Estruturas de repetição](https://hub.asimov.academy/blog/estruturas-de-repeticao-o-que-sao/)**, como o for loop, são fundamentais na programação, pois permitem que um bloco de código seja executado várias vezes, economizando tempo e esforço.
 
 Em Python, temos duas principais estruturas de repetição: o **for loop** e **while loop**. O for loop é usado quando sabemos de antemão quantas vezes queremos repetir um bloco de código, enquanto o while loop é usado quando a repetição depende de uma condição que pode mudar durante a execução do programa.
+
+## Referências:
+
+[Estruturas de repetição](https://hub.asimov.academy/blog/estruturas-de-repeticao-o-que-sao/)
