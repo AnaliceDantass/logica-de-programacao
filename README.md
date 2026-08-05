@@ -16,7 +16,7 @@ Existem diversas outras estruturas de dados, usadas em contextos e necessidades 
 
 ## for loop em Python
 
-Representa uma das formas mais comuns de estrutura de repetição, permitindo iterar sobre uma sequência de elementos e executar um bloco de código múltiplas vezes. 
+Representa uma das formas mais comuns de estrutura de repetição, permitindo iterar sobre uma sequência de elementos e executar um bloco de código múltiplas vezes. O laço for sempre obtém o próximo elemento da coleção iterável e guarda seu valor na variável.
 
 ## Estruturas de repetição 
 
